@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\ff5ebb2d4bf1f1b8ac3203e81f921dc5bb91291e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ec220589da1df032467b22410d02b7e02176766\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\0830b295edb59fd507ad5a9f3d22642287fa1345\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c49d3d0f873becb0e4cbb9174b29be55064eae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\4a6bc2e09b2874917a0d0edbe75a48b94fa232d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd2212cb3910190adbac9dc69f00894bcd2a281e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\1fa56063bad0334e1425c35e53c7c32d26068e6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1ab9833cb077f50827337a02450e6708c55b3c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\36dd70bfb659d083d381355c63ed5c642879b671\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5ff9a09fdac059b23141636ab2aed0768eefd8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\boora\.android\build-cache\6be9a9c6c5e9fcee6675a55ace57c85094c5604d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d335cc337e32f5483347c848644d4bc4dab1b30">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_4ee984afce548451935f05413d6b9b917fbb1ec0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\5df17f18b9066330d9c383d27ccf9c13638b3227\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12d999e52a8991f63471e27c1be05041200d032d">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04e56cba43a6a49db44193630b8fd81f34ae17f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.3.0\bcacde6a8ccedcc56c127403d26b76072fe6214d\retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.3.0_6bece90399a0dbf1d330defc49265949c6815133\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\38b5d50aad21016c10132ee3c8b4ffb42bee2c07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cd57a831a2cf2b1a7a744f343aeddd6a4b27698\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_52891b13d37de63784b4936b5a4223b7eed2ca18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.0\5a11f020cce2d11eb71ba916700600e18c4547e7\okhttp-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.8.0_68a59dbfd37e017ae1a334f238d2acd18eba16ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.8.5\60d059f5d2930ccd1ef03535b713fd9f933d1ba7\jackson-core-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d059f5d2930ccd1ef03535b713fd9f933d1ba7">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.8.5_6a81b27e9e202e7cf2c66209ea22958c9eb650a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\dc2d53048e068dad810afcc209752145754b51c1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5673281101aad13630046eeab1c172f83d675b07">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32280d30783178059eb0eb4d2035db6cef844d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.8.5\b3035f37e674c04dafe36a660c3815cc59f764e2\jackson-databind-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b3035f37e674c04dafe36a660c3815cc59f764e2">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.8.5_5f59d1699ff7c2ba0a461ac7484ea1c6542406e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\4ce5f48ccf7cfb99584181df4320526b3d25b73b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac6232783b1752a1d26214659b061b1d40a84ffa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.3\51ba140328b6c7f668d613c01ed63eaf40a428bd\MPAndroidChart-v3.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51ba140328b6c7f668d613c01ed63eaf40a428bd">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.3_5386a677bf1c7cbdbdb69685665e673731e39f36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_a21a5345ecef8b28b4db045e358faddb7263dc6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\d127584824cbbf0caa769c89a8fd30795e00b435\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0563a8cdd4a29123125715faed6b6c37ae64ad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\2c5edec53263e634481c4f16f55a73251b428c04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1ce3029e5fff8c0c2e3af921eb850a4e8c45505">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_53f623e66d4c223381d4dc74b3e79d59a1885ce2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.3.0\9e09011e9767bb76b5e27c9b8223476b93b14631\converter-gson-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.3.0_4a43870f74cf244f221580a36a7cb9443ae57e4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.8.5\9d82ff47bc2c2d3b5b6a6618fe636782bbcd5b07\jackson-annotations-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9d82ff47bc2c2d3b5b6a6618fe636782bbcd5b07">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.8.5_07629e3524b473ec789f6ebeabf1f25d886a9227\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_5bb3290079ad66d8c25f0400d6469c4a51458b3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\6be9a9c6c5e9fcee6675a55ace57c85094c5604d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d335cc337e32f5483347c848644d4bc4dab1b30">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ee984afce548451935f05413d6b9b917fbb1ec0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\ad77a7d223a7ee6a054409aca62d1f2ba7645f61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1c9a7686be61b48d7b12de3a3e41b227731f1b59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\eee5a7fb3781cdf4938d48beb8c32356f290ba0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0886e91716256da170b9b06a530057e8c1e0d1fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\44172253b3b1ca6adf1d6d3ee23428e5dc20284c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4690cde847210cd69dc2d268c1c37568d7e5aa02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\d51d238b7f0a25b27a4e0eb1a1281d83d7148513\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fd13c02bc8fe0b262f483634457dbdbad2c68ccb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.0\dd84903d2e1af25a6081ef9038ad863cb14ca3a0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_38c6d988fc1456f3d31f262aea2b71f1549a88b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\bc983dfc9522a35b73adb5380a80cc43e7166221\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68247fbc2b2f79f599c90f99c899f7fb30ff1b17">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5d97f8ceabad50af4904265a963295724011b6e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\40c820dad7a0ed6922ac852ffb0730a1a4082cd8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b713665ab4dd40412b9e42e405c88f7a34a972a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.android\build-cache\456584a619ad21e390c11b59896ac00837d4c864\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f0aebb5c3746400511ccbaee318d83419c57671d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\boora\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\boora\Downloads\finalandroid\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.13.0_dec0951e18db6747b68afd50d9968bc3404001ac\classes.dex" />
+    </item>
+
+</items>
